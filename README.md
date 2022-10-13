@@ -14,3 +14,14 @@
 
 参考
 https://backlog.com/ja/git-tutorial/
+
+
+# passionへの宿題
+
+・このリモートリポジトリをクローン
+
+・feature/passion ブランチを作成
+
+・passion.htmlを作成。
+
+・リモートリポジトリにpush
