@@ -11,3 +11,6 @@
 ・管理者は毎回一日の終わりにmergeする
 
 ・作業開始するときは毎回必ずmainからpullする
+
+参考
+https://backlog.com/ja/git-tutorial/
